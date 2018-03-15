@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: gsa-per-diem-api.api.streamdata.gallery
-tag: Temmplate
+tag: GSA Per Diem API
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
