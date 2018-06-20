@@ -10,10 +10,10 @@ description: Per Diem Rates are the allowed reimbursement rates for hotel stays 
   innovative uses for it.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gsa-logo.png
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: GSA Per Diem API
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/gsa-per-diem-api/master/_listings/gsa-per-diem-api/apis.md
 specificationVersion: "0.14"
 apis:
