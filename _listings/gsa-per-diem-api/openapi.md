@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: GSA Per Diem API
 x-complete: 1
@@ -34,4 +33,3 @@ paths:
           description: OK
       tags:
       - Per Diem Rates
----
